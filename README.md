@@ -35,7 +35,9 @@ An open-source Simplified Chinese font derived from Klee One. 一款开源简体
 
 ## 注意事项
 
-1. 
+1. GB/T 2312-80 收录的繁体字「麴」`U+9EB4` 并未包含在本字体中，由《通用规范汉字表》收录的类推简化字「麹」`U+9EB9` 取代，故在[字体计数软件](https://github.com/NightFurySL2001/CJK-character-count)中会显示本字体 GB/T 2312-80 范围内汉字数量为 6762 个。
+2. 围字框「囗」等部件由于涉及字形数量较多，故保留 Klee 原风格，未做改动；此外限于 Klee 字体原有风格，不区分「悬针竖」和「垂露竖」。
+3. 本字体目前未计划收录繁体字及表外生僻字，如有介意请继续使用[「霞鹜文楷」](https://github.com/lxgw/LxgwWenKai)。
 
 ## 协助完善
 

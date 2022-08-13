@@ -13,3 +13,18 @@ An open-source Simplified Chinese font derived from Klee One. 一款开源简体
 虽然「霞鹜文楷」修改了 GB/T 2312-80 及《通用规范汉字表》范围内的汉字字形，使其接近中国大陆推行的新字形，但仍保留了 Klee One 印刷体的特征，如「亠」「宀」等起笔的直点，「㇙」「㇜」等笔画「断作两笔」等，因此一些人认为「霞鹜文楷」的字形并不规范，不符合一般楷体的书写习惯。鉴于此，本人在「霞鹜文楷」的基础上，对字体的字形、笔形作进一步修改，使其尽可能完全符合中国大陆的字形标准（G 源字形），命名「霞鹜规楷」。目前该字体包含《通用规范汉字表》（2013）所收录的 8105 个汉字、《现代汉语通用字表》（1988）所收录的 7000 个汉字，以及 GB/T 2312-80 所收录的汉字，基本满足现代汉语（简体字）使用需要，并且适用于教育用途（如义务教育图书、少儿读物、字帖等）。
 
 ## 字体预览
+![](https://raw.githubusercontent.com/lxgw/LxgwGuiKai/main/documentation/guikai-1.png)
+
+![](https://raw.githubusercontent.com/lxgw/LxgwGuiKai/main/documentation/guikai-2.png)
+
+![](https://raw.githubusercontent.com/lxgw/LxgwGuiKai/main/documentation/guikai-3.png)
+
+![](https://raw.githubusercontent.com/lxgw/LxgwGuiKai/main/documentation/guikai-4.png)
+
+![](https://raw.githubusercontent.com/lxgw/LxgwGuiKai/main/documentation/guikai-5.png)
+
+![](https://raw.githubusercontent.com/lxgw/LxgwGuiKai/main/documentation/guikai-6.png)
+
+![](https://raw.githubusercontent.com/lxgw/LxgwGuiKai/main/documentation/guikai-7.png)
+
+![](https://raw.githubusercontent.com/lxgw/LxgwGuiKai/main/documentation/guikai-8.png)

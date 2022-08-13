@@ -2,8 +2,8 @@
 An open-source Simplified Chinese font derived from Klee One. 一款开源简体中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 
 
-[![开源授权](https://img.shields.io/github/license/lxgw/LxgwWenKai?style=flat-square)](https://github.com/lxgw/LxgwGuiKai)
-[![最新版](https://img.shields.io/github/release/lxgw/LxgwWenKai?style=flat-square)](https://github.com/lxgw/LxgwGuiKai/releases)
+[![开源授权](https://img.shields.io/github/license/lxgw/LxgwGuiKai?style=flat-square)](https://github.com/lxgw/LxgwGuiKai)
+[![最新版](https://img.shields.io/github/release/lxgw/LxgwGuiKai?style=flat-square)](https://github.com/lxgw/LxgwGuiKai/releases)
 
 
 ## 项目简介

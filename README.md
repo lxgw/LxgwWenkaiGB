@@ -28,3 +28,56 @@ An open-source Simplified Chinese font derived from Klee One. 一款开源简体
 ![](https://raw.githubusercontent.com/lxgw/LxgwGuiKai/main/documentation/guikai-7.png)
 
 ![](https://raw.githubusercontent.com/lxgw/LxgwGuiKai/main/documentation/guikai-8.png)
+
+## 获取字体
+
+在 [Releases](https://github.com/lxgw/LxgwGuiKai/releases) 界面下载 ttf 格式字体文件。
+
+## 注意事项
+
+1. 
+
+## 协助完善
+
+霞鹜规楷仍是一款完成度不算高的字体，诸多地方仍然存在瑕疵。欢迎更多志同道合的朋友在此基础上完善这款字体，您可以通过以下方式与本人联系。
+
+- **Telegram：** [@lxgwtg](https://t.me/lxgwtg) | [频道](https://t.me/lxgwandroidfont)
+- **微信公众号：** 霞鹜 *（ID: lxgwshare）*
+- **酷安：** [@落霞孤鹜lxgw](https://www.coolapk.com/u/633884) | [**即刻**](https://m.okjike.com/users/2e826735-48e6-46c5-b0c2-278cb1853b54?ref=PROFILE_CARD&source=user_card&s=eyJ1IjoiNWVlMzkwZGRkNWNhNTgwMDE3NjljZjFiIiwiZCI6MX0%3D&utm_source=create_card) | [**少数派**](https://sspai.com/u/ng008g7q)
+- **微博：** [@孤鹜先森](https://weibo.com/6624339726)
+- **Email：** calxgw2018@gmail.com srtong2006@126.com lxgw1999@qq.com
+
+## 授权信息
+
+本字体是基于 SIL Open Font License 1.1 改造的 FONTWORKS 开发并发布的 [Klee](https://github.com/fontworks-fonts/Klee) 开源项目。Klee 是 FONTWORKS 的商标。
+
+### 许可
+
+- 这款字体无论是个人还是企业都可以自由商用，无需付费，也无需知会或者标明原作者。 *（但如果告知，我会很感激。）*
+- 这款字体可以自由传播、分享，或者将字体安装于系统、软件或APP中也是允许的，可以与任何软件捆绑再分发以及／或一并销售。
+- 这款字体可以自由修改、改造，制作衍生字体。修改或改造后的字体也必须同样以 [SIL OFL](https://scripts.sil.org/OFL) 公开。
+
+### 限制
+
+- 在制作衍生字体时，字体名称不可使用原有字体的「保留名称」。本字体保留名称「霞鹜」「LXGW」，基于本字体二次衍生的字体，名称不可出现「霞鹜」或「LXGW」字样；而在没有对字体源代码进行修改的情况下，重新编译出来的字体，可以继续使用本字体的保留名称「霞鹜」「LXGW」。
+- 根据 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 的规定， **禁止单独出售字体文件(OTF/TTF文件)的行为。**
+- 该字体不可在 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 以外的授权许可下发行。
+
+## 鸣谢
+
+- [FONTWORKS 株式会社](http://fontworks.co.jp) 提供原版开源字体； [开发者 GitHub 主页](https://github.com/fontworks-fonts/)
+- @荆南字坊、[@夜煞之乐](https://github.com/NightFurySL2001) 等为字形设计提供指导；
+- @江大桥BridgeRiver、[@ItMarki](https://github.com/ItMarki) 等对字形修改提供反馈；
+- [「芫荽」/ Iansui](https://github.com/ButTaiwan/iansui) 提供笔形参考。
+
+## 其它项目
+
+- [霞鹜文楷 / Lxgw WenKai](https://github.com/lxgw/LxgwWenKai) | [旧字形](https://github.com/lxgw/LxgwWenKaiTC)
+- [霞鹜新晰黑 / Lxgw New Clear Gothic](https://github.com/lxgw/LxgwNewClearGothic)
+- [霞鹜漫黑 / Lxgw Marker Gothic](https://github.com/lxgw/LxgwMarkerGothic)
+- [小赖字体 / Xiaolai](https://github.com/lxgw/kose-font)
+- [悠哉字体 / Yozai](https://github.com/lxgw/yozai-font)
+
+## 打赏支持
+
+[点击进入打赏页面。](https://github.com/lxgw/lxgw/blob/main/Donate.md)

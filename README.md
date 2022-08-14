@@ -71,7 +71,7 @@ An open-source Simplified Chinese font derived from Klee One. 一款开源简体
 
 - [FONTWORKS 株式会社](http://fontworks.co.jp) 提供原版开源字体； [开发者 GitHub 主页](https://github.com/fontworks-fonts/)
 - @荆南字坊、[@夜煞之乐](https://github.com/NightFurySL2001) 等为字形设计提供指导；
-- @江大桥BridgeRiver、[@ItMarki](https://github.com/ItMarki) 等对字形修改提供反馈；
+- [@江大桥BridgeRiver](https://space.bilibili.com/431213752?spm_id_from=333.337.0.0)、[@ItMarki](https://github.com/ItMarki) 等对字形修改提供反馈；
 - [「芫荽」/ Iansui](https://github.com/ButTaiwan/iansui) 提供笔形参考。
 
 ## 其它项目

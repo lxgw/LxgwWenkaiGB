@@ -8,7 +8,7 @@ An open-source Simplified Chinese font derived from Klee One. 一款开源简体
 
 ## 项目简介
 
-2020 年 12 月，日本著名字体厂商 FONTWORKS 在 GitHub 上释出了 [7 款开源日文字体](https://github.com/fontworks-fonts)，其中 [Klee One](https://github.com/fontworks-fonts/Klee) 字符数最多，兼有仿宋和楷体的特点，具有优雅的外观及较高的可读性，非常适合正文排版。与一般的教科书体相比，Klee One 保留了印刷字体的一些特征。2021 年，本人在其基础上增补和修改字形，制成[「霞鹜文楷」/ LXGW WenKai](https://github.com/lxgw/LxgwWenKai) 字体，受到广泛欢迎。除此之外，一些字体爱好者也制作了其他的衍生版本，如[「芫荽」/ Iansui](https://github.com/ButTaiwan/iansui) 等。
+2020 年 12 月，日本著名字体厂商 FONTWORKS 在 GitHub 上释出了 [7 款开源日文字体](https://github.com/fontworks-fonts)，其中 [Klee One](https://github.com/fontworks-fonts/Klee) 字符数最多，兼有仿宋和楷体的特点，具有优雅的外观及较高的可读性，非常适合正文排版。与一般的教科书体相比，Klee One 保留了传统印刷字体的一些特征。2021 年，本人在其基础上增补和修改字形，制成[「霞鹜文楷」/ LXGW WenKai](https://github.com/lxgw/LxgwWenKai) 字体，受到广泛欢迎。除此之外，一些字体爱好者也制作了其他的衍生版本，如[「芫荽」/ Iansui](https://github.com/ButTaiwan/iansui) 等。
 
 虽然霞鹜文楷修改了 GB/T 2312-80 及《通用规范汉字表》范围内的汉字字形，使其接近中国大陆推行的新字形，但仍保留了 Klee One 印刷体的特征，如「亠」「宀」等起笔的直点，「㇙」「㇜」等笔画折角处断笔设计等，因此一些人认为霞鹜文楷的字形并不规范，不是「G 源字形」，不符合一般楷体的书写习惯。鉴于此，本人在霞鹜文楷的基础上，尽可能严格按照中国大陆的字形标准（G 源字形）对字形、笔形作进一步修改，命名「霞鹜规楷」。
 
@@ -37,7 +37,7 @@ An open-source Simplified Chinese font derived from Klee One. 一款开源简体
 
 ## 注意事项
 
-1. 本字体的调整参考《通用规范汉字表》、GF 0023-2020《通用规范汉字笔画规范》，以及其他遵循国标的楷体、仿宋字形（如「教材规范楷体」），尽可能消除 Klee One 「直点」「断笔」印刷字体特征，符合楷体书写习惯。但极少部分与规范楷书字形的差异视作风格不作改动，如：围字框「囗」等部件由于涉及字形数量较多，故保留 Klee 原风格，未做改动；此外限于 Klee 字体原有风格，不区分「悬针竖」和「垂露竖」。如有字形标准方面的改字疏漏，请在 [Issue #1](https://github.com/lxgw/LxgwGuiKai/issues/1) 提出，不要另开议题。
+1. 本字体的调整参考《通用规范汉字表》、GF 0023-2020《通用规范汉字笔画规范》，以及其他遵循国标的楷体、仿宋字形（如「教材规范楷体」），尽可能消除 Klee One 「直点」「断笔」等传统印刷字体特征，符合楷体书写习惯。但极少部分与规范楷书字形的差异视作风格不作改动，如：围字框「囗」等部件由于涉及字形数量较多，故保留 Klee 原风格，未做改动；此外限于 Klee 字体原有风格，不区分「悬针竖」和「垂露竖」。如有字形标准方面的改字疏漏，请在 [Issue #1](https://github.com/lxgw/LxgwGuiKai/issues/1) 提出，不要另开议题。
 2. GB/T 2312-80 收录的繁体字「麴」`U+9EB4` 并未包含在本字体中，由《通用规范汉字表》收录的类推简化字「麹」`U+9EB9` 取代，故在[字体计数软件](https://github.com/NightFurySL2001/CJK-character-count)中会显示本字体 GB/T 2312-80 范围内汉字数量为 6762 个。
 3. 本字体目前未计划收录繁体字及表外生僻字，如有缺字可考虑与[「霞鹜文楷」](https://github.com/lxgw/LxgwWenKai)等其他 Klee One 衍生字体配合使用（但无法保证为标准字体），或继续使用「霞鹜文楷」等其他 Klee One 衍生字体。
 

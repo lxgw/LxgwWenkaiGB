@@ -33,7 +33,8 @@ An open-source Simplified Chinese font derived from Klee One. 一款开源简体
 
 ## 获取字体
 
-在 [Releases](https://github.com/lxgw/LxgwGuiKai/releases) 界面下载 ttf 格式字体文件。
+1. 在 [Releases](https://github.com/lxgw/LxgwGuiKai/releases) 界面下载 ttf 格式字体文件。
+2. [永硕 E 盘个人下载站](http://lxgw.ysepan.com/)、[蓝奏云（密码 e0zt）](https://lxgw.lanzoum.com/b0csn9d8j) 会在本项目更新后 24 小时之内更新。
 
 ## 注意事项
 

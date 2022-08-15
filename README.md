@@ -15,21 +15,21 @@ An open-source Simplified Chinese font derived from Klee One. 一款开源简体
 目前该字体包含《通用规范汉字表》（2013）所收录的 8105 个汉字、《现代汉语通用字表》（1988）所收录的 7000 个汉字，以及 GB/T 2312-80 所收录的汉字，基本满足现代汉语（简体字）使用需要，并且适用于教育用途（如义务教育图书、少儿读物、字帖等）。由于 Klee 字体的 Regular 字重太细，故选取原字体 SemiBold 字重作为本字体的 Regular 字重。
 
 ## 字体预览
-![](https://raw.githubusercontent.com/lxgw/LxgwGuiKai/main/documentation/guikai-1.png)
+![](https://raw.githubusercontent.com/lxgw/LxgwWenkaiGB/main/documentation/wenkaigb-1.png)
 
-![](https://raw.githubusercontent.com/lxgw/LxgwGuiKai/main/documentation/guikai-2.png)
+![](https://raw.githubusercontent.com/lxgw/LxgwWenkaiGB/main/documentation/wenkaigb-2.png)
 
-![](https://raw.githubusercontent.com/lxgw/LxgwGuiKai/main/documentation/guikai-3.png)
+![](https://raw.githubusercontent.com/lxgw/LxgwWenkaiGB/main/documentation/wenkaigb-3.png)
 
-![](https://raw.githubusercontent.com/lxgw/LxgwGuiKai/main/documentation/guikai-4.png)
+![](https://raw.githubusercontent.com/lxgw/LxgwWenkaiGB/main/documentation/wenkaigb-4.png)
 
-![](https://raw.githubusercontent.com/lxgw/LxgwGuiKai/main/documentation/guikai-5.png)
+![](https://raw.githubusercontent.com/lxgw/LxgwWenkaiGB/main/documentation/wenkaigb-5.png)
 
-![](https://raw.githubusercontent.com/lxgw/LxgwGuiKai/main/documentation/guikai-6.png)
+![](https://raw.githubusercontent.com/lxgw/LxgwWenkaiGB/main/documentation/wenkaigb-6.png)
 
-![](https://raw.githubusercontent.com/lxgw/LxgwGuiKai/main/documentation/guikai-7.png)
+![](https://raw.githubusercontent.com/lxgw/LxgwWenkaiGB/main/documentation/wenkaigb-7.png)
 
-![](https://raw.githubusercontent.com/lxgw/LxgwGuiKai/main/documentation/guikai-8.png)
+![](https://raw.githubusercontent.com/lxgw/LxgwWenkaiGB/main/documentation/wenkaigb-8.png)
 
 ## 获取字体
 

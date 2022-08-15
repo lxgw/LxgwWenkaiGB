@@ -39,7 +39,7 @@ An open-source Simplified Chinese font derived from Klee One. 一款开源简体
 
 1. 本字体的调整参考《通用规范汉字表》、GF 0023-2020《通用规范汉字笔画规范》，以及其他遵循国标的楷体、仿宋字形（如「教材规范楷体」），尽可能消除 Klee One 「直点」「断笔」等传统印刷字体特征，符合楷体书写习惯。但极少部分与规范楷书字形的差异视作风格不作改动，如：围字框「囗」等部件由于涉及字形数量较多，故保留 Klee 原风格，未做改动；此外限于 Klee 字体原有风格，不区分「悬针竖」和「垂露竖」。如有字形标准方面的改字疏漏，请在 [Issue #1](https://github.com/lxgw/LxgwGuiKai/issues/1) 提出，不要另开议题。
 2. GB/T 2312-80 收录的繁体字「麴」`U+9EB4` 并未包含在本字体中，由《通用规范汉字表》收录的类推简化字「麹」`U+9EB9` 取代，故在[字体计数软件](https://github.com/NightFurySL2001/CJK-character-count)中会显示本字体 GB/T 2312-80 范围内汉字数量为 6762 个。
-3. 本字体目前未计划收录繁体字及表外生僻字，如有缺字可考虑与[「霞鹜文楷」](https://github.com/lxgw/LxgwWenKai)等其他 Klee One 衍生字体配合使用（但无法保证为标准字体），或继续使用「霞鹜文楷」等其他 Klee One 衍生字体。
+3. 本字体目前未计划收录繁体字及表外生僻字，如有缺字可考虑与[原版「霞鹜文楷」](https://github.com/lxgw/LxgwWenKai)等其他 Klee One 衍生字体配合使用（但无法保证为标准字体），或继续使用原版「霞鹜文楷」等其他 Klee One 衍生字体。
 
 ## 协助完善
 

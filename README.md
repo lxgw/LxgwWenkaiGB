@@ -1,4 +1,4 @@
-# LXGW WenKai GB (Simplified Chinese) / 霞鹜文楷 GB（简）
+# LXGW WenKai GB (Simplified Chinese) </br>霞鹜文楷 GB（简）
 An open-source Simplified Chinese font derived from Klee One. 一款开源简体中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 
 

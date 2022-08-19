@@ -34,8 +34,8 @@ An open-source Simplified Chinese font derived from Klee One. 一款开源简体
 ## 获取字体
 
 1. 在 [Releases](https://github.com/lxgw/LxgwGuiKai/releases) 界面下载 ttf 格式字体文件。
-2. [永硕 E 盘个人下载站](http://lxgw.ysepan.com/)、[蓝奏云（密码 e0zt）](https://lxgw.lanzoum.com/b0csn9d8j) 会在本项目更新后 24 小时之内更新。
-3.进入 [猫啃网](https://www.maoken.com/freefonts/16864.html) 进行下载。GitHub 项目更新后，会联系站长进行更新，更新会稍晚些。 **注意：** 其它收录免费商用字体的网站上可能也收录了本字体，但可能不是最新版。 
+2. [永硕 E 盘个人下载站](http://lxgw.ysepan.com/)、[蓝奏云（密码 e0zt）](https://lxgw.lanzoum.com/b0csn9d8j) 会在本项目更新后 48 小时之内更新。
+3. 进入 [猫啃网](https://www.maoken.com/freefonts/16864.html) 进行下载。GitHub 项目更新后，会联系站长进行更新，更新会稍晚些。 **注意：** 其它收录免费商用字体的网站上可能也收录了本字体，但可能不是最新版。 
 
 ## 注意事项
 

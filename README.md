@@ -80,7 +80,7 @@ An open-source Simplified Chinese font derived from Klee One. 一款开源简体
 
 ## 相关资料
 - [通用规范汉字表](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/201306/t20130601_186002.html)
-- [通用规范汉字笔顺标准](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/202103/t20210318_520473.html)
+- [通用规范汉字笔顺规范](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/202103/t20210318_520473.html)
 
 ## 其它项目
 

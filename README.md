@@ -78,6 +78,10 @@ An open-source Simplified Chinese font derived from Klee One. 一款开源简体
 - [@江大桥BridgeRiver](https://space.bilibili.com/431213752?spm_id_from=333.337.0.0)、[@ItMarki](https://github.com/ItMarki) 等对字形修改提供反馈；
 - 部分字形和笔形参考 [「芫荽」/ Iansui](https://github.com/ButTaiwan/iansui)。
 
+## 相关资料
+- [通用规范汉字表](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/201306/t20130601_186002.html)
+- [通用规范汉字笔顺标准](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/202103/t20210318_520473.html)
+
 ## 其它项目
 
 - [霞鹜文楷 / Lxgw WenKai](https://github.com/lxgw/LxgwWenKai) | [旧字形](https://github.com/lxgw/LxgwWenKaiTC)

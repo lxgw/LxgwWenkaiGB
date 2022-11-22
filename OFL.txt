@@ -1,4 +1,4 @@
-Copyright 2022 LXGW (https://github.com/lxgw/LxgwGuiKai)
+Copyright 2022 LXGW (https://github.com/lxgw/LxgwWenkaiGB)
 Copyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.

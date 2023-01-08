@@ -41,8 +41,8 @@ An open-source Simplified Chinese font derived from Klee One. 一款开源简体
 
 1. 本字体的调整参考《通用规范汉字表》、GF 0023-2020《通用规范汉字笔顺规范》，以及其他遵循国标的楷体、仿宋字形（如「教材规范楷体」），尽可能消除 Klee One 「直点」「断笔」等传统印刷字体特征，符合楷体书写习惯。但因个人审美、人力等因素，极少部分与规范楷书字形的细节差异视作风格不作改动，如：围字框「囗」等部件由于涉及字形数量较多，故保留 Klee 原风格，未做改动；此外限于 Klee 字体原有风格，不区分「悬针竖」和「垂露竖」。如有字形标准方面的改字疏漏，请在 [Issue #1](https://github.com/lxgw/LxgwWenkaiGB/issues/1) 提出，不要另开议题。
 2. 小写字母 l 调整为原 Klee One 的直棍写法，以符合汉语拼音书写习惯；大写字母 I 调整为两端有横杠的写法，以与小写字母 l 区分。
-3. GB/T 2312-80 收录的繁体字「麴」`U+9EB4` 并未包含在本字体中，由《通用规范汉字表》收录的类推简化字「麹」`U+9EB9` 取代，故在[字体计数软件](https://github.com/NightFurySL2001/CJK-character-count)中会显示本字体 GB/T 2312-80 范围内汉字数量为 6762 个。
-4. 本字体目前未计划收录繁体字及表外生僻字，如有缺字可考虑与[原版「霞鹜文楷」](https://github.com/lxgw/LxgwWenKai)等其他 Klee One 衍生字体配合使用（但无法保证为标准字体，参考以各地标准字形为主的[「缝合楷」](https://github.com/lxgw/FusionKai)以及用原版完整版文楷补全的[「霞鹜文楷 GB 融合」](https://github.com/lxgw/LxgwWenkaiGB-Fusion)），或继续使用原版「霞鹜文楷」等其他 Klee One 衍生字体。
+3. GB/T 2312-80 收录的繁体字「麴」`U+9EB4` 并未包含在本字体中，由《通用规范汉字表》收录的类推简化字「麹」`U+9EB9` 取代，故在[字体计数软件](https://github.com/NightFurySL2001/CJK-character-count)中会显示本字体 GB/T 2312-80 范围内汉字数量为 6762 个。（出于兼容性考虑，后续将加入）
+4. 本字体目前未计划收录繁体字，如有缺字可考虑与[原版「霞鹜文楷」](https://github.com/lxgw/LxgwWenKai)等其他 Klee One 衍生字体配合使用（但无法保证为标准字体，参考以各地标准字形为主的[「缝合楷」](https://github.com/lxgw/FusionKai)以及用原版完整版文楷补全的[「霞鹜文楷 GB 融合」](https://github.com/lxgw/LxgwWenkaiGB-Fusion)），或继续使用原版「霞鹜文楷」等其他 Klee One 衍生字体。
 
 ## 协助完善
 
@@ -81,6 +81,7 @@ An open-source Simplified Chinese font derived from Klee One. 一款开源简体
 ## 相关资料
 - [通用规范汉字表](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/201306/t20130601_186002.html)
 - [通用规范汉字笔顺规范](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/202103/t20210318_520473.html)
+- [GB/T 2312-1980 信息交换用汉字编码字符集 基本集](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=5664A728BD9D523DE3B99BC37AC7A2CC)
 
 ## 其它项目
 

@@ -12,7 +12,7 @@ An open-source Simplified Chinese font derived from Klee One. 一款开源简体
 
 虽然霞鹜文楷修改了 GB/T 2312-1980 及《通用规范汉字表》范围内的汉字字形，使其接近中国大陆推行的新字形，但仍保留了 Klee One 印刷体的特征，如「亠」「宀」等起笔的直点，「㇙」「㇜」等笔画折角处断笔设计等，因此一些人认为霞鹜文楷的字形并不规范，不是「G 源字形」，不符合一般楷体的书写习惯。鉴于此，本人在霞鹜文楷的基础上，尽可能严格按照中国大陆的字形标准（G 源字形）对字形、笔形作进一步修改，继续沿用「霞鹜文楷」名称，增加「GB」后缀表示字形遵循国标。
 
-目前该字体包含《通用规范汉字表》（2013）所收录的 8105 个汉字、《现代汉语通用字表》（1988）所收录的 7000 个汉字，以及 GB/T 2312-1980 所收录的 6763 个汉字，并按需补充一些较常用的其他汉字，基本满足现代汉语（简体字）使用需要，并且适用于教育用途（如义务教育图书、少儿读物、字帖等）。由于 Klee 字体的 Regular 字重太细，故选取原字体 SemiBold 字重作为本字体的 Regular 字重。
+目前该字体包含《通用规范汉字表》（2013）所收录的 8105 个汉字、《现代汉语通用字表》（1988）所收录的 7000 个汉字，以及 GB/T 2312-1980 所收录的 6763 个汉字，并按需补充一些较常用的其他汉字（详见[「外字初步整理一览表」](https://github.com/lxgw/LxgwNeoXiHei/blob/main/documentation/ext_characters_preliminary.md)），基本满足现代汉语（简体字）使用需要，并且适用于教育用途（如义务教育图书、少儿读物、字帖等）。由于 Klee 字体的 Regular 字重太细，故选取原字体 SemiBold 字重作为本字体的 Regular 字重。
 
 ## 字体预览
 ![](https://raw.githubusercontent.com/lxgw/LxgwWenkaiGB/main/documentation/wenkaigb-1.png)
@@ -33,9 +33,15 @@ An open-source Simplified Chinese font derived from Klee One. 一款开源简体
 
 ## 获取字体
 
+### ⅰ. 直接下载
+
 1. 在 [Releases](https://github.com/lxgw/LxgwWenKaiGB/releases) 界面下载 ttf 格式字体文件。
 2. [永硕 E 盘个人下载站](http://lxgw.ysepan.com/)、[蓝奏云（密码 e0zt）](https://lxgw.lanzoum.com/b0csn9d8j) 会在本项目更新后 48 小时之内更新。
 3. 进入 [猫啃网](https://www.maoken.com/freefonts/16864.html)、[zfont](https://zfont.cn/cn/font_533.html) 进行下载。GitHub 项目更新后，会联系站长进行更新，更新会稍晚些。 **注意：** 其它收录免费商用字体的网站上可能也收录了本字体，但可能不是最新版。 
+
+### ⅱ. 从源代码生成
+
+请运行 `./sources/build.bat` 或 `./sources/build.sh`。需要安装 [`fontmake`](https://github.com/googlefonts/fontmake)：`pip3 install fontmake` 和 [`fontTools`](https://github.com/fonttools/fonttools)：`pip3 install fonttools`。
 
 ## 注意事项
 

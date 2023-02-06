@@ -99,3 +99,8 @@ An open-source Simplified Chinese font derived from Klee One. 一款开源简体
 ## 打赏支持
 
 [点击进入打赏页面。](https://github.com/lxgw/lxgw/blob/main/Donate.md)
+
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/lxgw/LxgwWenkaiGB.svg)](https://starchart.cc/lxgw/LxgwWenkaiGB)

@@ -90,9 +90,9 @@ An open-source Simplified Chinese font derived from Klee One. 一款开源简体
 
 ## 其它项目
 
-- [霞鹜文楷 / Lxgw WenKai](https://github.com/lxgw/LxgwWenKai) | [旧字形](https://github.com/lxgw/LxgwWenKaiTC)
-- [霞鹜新晰黑 / Lxgw Neo XiHei](https://github.com/lxgw/LxgwNeoXiHei)
-- [霞鹜漫黑 / Lxgw Marker Gothic](https://github.com/lxgw/LxgwMarkerGothic)
+- [霞鹜文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai) | [旧字形](https://github.com/lxgw/LxgwWenKaiTC)
+- [霞鹜新晰黑 / LXGW Neo XiHei](https://github.com/lxgw/LxgwNeoXiHei)
+- [霞鹜漫黑 / LXGW Marker Gothic](https://github.com/lxgw/LxgwMarkerGothic)
 - [小赖字体 / Xiaolai](https://github.com/lxgw/kose-font)
 - [悠哉字体 / Yozai](https://github.com/lxgw/yozai-font)
 

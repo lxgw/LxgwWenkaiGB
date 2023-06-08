@@ -14,29 +14,6 @@ An open-source Simplified Chinese font derived from Klee One. 一款开源中文
 
 目前该字体包含《通用规范汉字表》（2013）所收录的 8105 个汉字、《现代汉语通用字表》（1988）所收录的 7000 个汉字，以及 GB/T 2312-1980 所收录的 6763 个汉字，并按需补充一些较常用的其他汉字（详见[「外字初步整理一览表」](https://github.com/lxgw/ext-characters/blob/main/tables/ext_characters_table_1.md)），基本满足现代汉语（简体字）使用需要，并且适用于教育用途（如义务教育图书、少儿读物、字帖等）。自 v1.0 版本起，按照[「繁异体及其他外字初步整理一览表」](https://github.com/lxgw/ext-characters/blob/main/tables/ext_characters_table_2.md)新增繁体字及 IICore 汉字支持。由于 Klee 字体的 Regular 字重太细，故选取原字体 SemiBold 字重作为本字体的 Regular 字重。
 
-### 字汇
-
-#### 第一部分（简体为主）
-- [x] [现代汉语常用字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/xiandai_changyong.txt) 3500 字；
-- [x] [GB/T 2312-1980](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_2312.txt) 汉字部分 6763 字；
-- [x] [通用规范汉字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/tongyong_guifan.txt) 8105 字；
-- [x] [现代汉语通用字表](https://github.com/NightFurySL2001/cjktables/blob/master/china/standard/xiandai_tongyong.txt) 7000 字；
-- [x] 此外按需添加一些表外字，共分为 5 组，详见[外字初步整理表](https://github.com/lxgw/ext-characters/blob/main/tables/ext_characters_table_1.md)。
-
-以上字汇共计 9 千余字，可基本满足简体中文使用需求。
-
-#### 第二部分（繁异体为主）
-
-详见[外字初步整理表 第二部分（繁异体及其他外字）](https://github.com/lxgw/ext-characters/blob/main/tables/ext_characters_table_2.md)
-
-- [x] 港台常用字（包括[台湾地区 4808 常用字](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/standard/edu_standard_1.txt)、[香港地区常用字](https://github.com/NightFurySL2001/cjktables/blob/master/hong_kong/hk-changyong.txt)）；
-- [x] [GB/T 12345-1990](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_12345.txt) 汉字部分 6866 字、[BIG5 一级（常用）](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/encoding/big5-1.txt) 5401 字；
-- [x] 通用规范汉字表附表 1：「规范字与繁体字、异体字对照表」中的繁体字列；
-- [x] [外字初步整理表](https://github.com/lxgw/LxgwNeoXiHei/blob/main/documentation/ext_characters_preliminary.md) 所含字对应繁体字（主要采用 [BabelPad](https://www.babelstone.co.uk/Software/BabelPad.html) 转换，一少部分为后加，可能存在遗漏）；
-- [x] 补全 IICore 收录的 9810 个汉字。
-
-以上两部分字汇共计 1.3 万余字，可基本满足简繁日常用字的显示需要。
-
 ## 字体预览
 ![](https://raw.githubusercontent.com/lxgw/LxgwWenkaiGB/main/documentation/wenkaigb-1.png)
 

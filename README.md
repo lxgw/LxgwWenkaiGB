@@ -76,15 +76,16 @@ An open-source Simplified Chinese font derived from Klee One. 一款开源中文
 ### 限制
 
 - 在制作衍生字体时，字体名称不可使用原有字体的「保留名称」。本字体保留名称「霞鹜」「LXGW」，基于本字体二次衍生的字体，名称不可出现「霞鹜」或「LXGW」字样；而在没有对字体源代码进行修改的情况下，重新编译出来的字体，可以继续使用本字体的保留名称「霞鹜」「LXGW」。
-- 根据 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 的规定， **禁止单独出售字体文件(OTF/TTF文件)的行为。**
+- 根据 [SIL Open Font License 1.1](https://scripts.sil.org/OFL)「许可与条件」中第 1 条的规定， **禁止单独出售字体文件(OTF/TTF文件)的行为。**
 - 该字体不可在 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 以外的授权许可下发行。
 
 ## 鸣谢
 
 - [FONTWORKS 株式会社](http://fontworks.co.jp) 提供原版开源字体； [开发者 GitHub 主页](https://github.com/fontworks-fonts/)
-- @荆南字坊、[@夜煞之乐](https://github.com/NightFurySL2001) 等为字形设计提供指导；
-- [@江大桥BridgeRiver](https://space.bilibili.com/431213752?spm_id_from=333.337.0.0)、[@ItMarki](https://github.com/ItMarki)、[@真理哥](https://github.com/zhenlige) 等对字形修改提供反馈；
-- 部分字形和笔形参考 [「芫荽」/ Iansui](https://github.com/ButTaiwan/iansui)。
+- 原始字体的设计师 Francis Chow，以及 @荆南字坊、[@夜煞之乐](https://github.com/NightFurySL2001) 等为字形设计与修改提供指导；
+- @Georgome、[@Magmeta](https://github.com/Des-Magmeta) 等协助完善字体；
+- [@江大桥BridgeRiver](https://space.bilibili.com/431213752?spm_id_from=333.337.0.0)、[@ItMarki](https://github.com/ItMarki)、[@真理哥](https://github.com/zhenlige) 等对修改过程中存在的遗漏字形提供反馈；
+- 部分字形和笔形参考[「芫荽」/ Iansui](https://github.com/ButTaiwan/iansui)、[「芫茜雅楷」/ Jyunsai Kaai](https://github.com/ItMarki/jyunsaikaai)。
 
 ## 相关资料
 - [通用规范汉字表](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/201306/t20130601_186002.html)

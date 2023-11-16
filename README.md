@@ -82,7 +82,7 @@ An open-source Simplified Chinese font derived from Klee One. 一款开源中文
 ## 鸣谢
 
 - [FONTWORKS 株式会社](http://fontworks.co.jp) 提供原版开源字体； [开发者 GitHub 主页](https://github.com/fontworks-fonts/)
-- 原始字体的设计师周建豪先生（Francis Chow），以及 @荆南字坊、[@夜煞之乐](https://github.com/NightFurySL2001) 等为字形设计与修改提供指导；
+- 原始字体的设计师周建豪（Francis Chow）先生，以及 @荆南字坊、[@夜煞之乐](https://github.com/NightFurySL2001) 等为字形设计与修改提供指导；
 - [@Georgome](https://github.com/GeorgomeFont)、[@Magmeta](https://github.com/Des-Magmeta) 等协助完善字体；
 - [@江大桥BridgeRiver](https://space.bilibili.com/431213752?spm_id_from=333.337.0.0)、[@ItMarki](https://github.com/ItMarki)、[@真理哥](https://github.com/zhenlige) 等对修改过程中存在的遗漏字形提供反馈；
 - 部分字形和笔形参考[「芫荽」/ Iansui](https://github.com/ButTaiwan/iansui)、[「芫茜雅楷」/ Jyunsai Kaai](https://github.com/ItMarki/jyunsaikaai)。

@@ -1,0 +1,54 @@
+on:
+  push:
+    paths:
+      - sources/**
+      - .github/workflows/**
+  pull_request:
+    branches:
+      - main
+    paths:
+      - sources/**
+      - .github/workflows/**
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Clean existing font files
+        run: rm -r ./fonts/TTF/
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install pipx
+          pipx ensurepath
+          pipx install fontmake fonttools
+
+      - name: Build
+        run: cd sources && bash ./build.sh
+
+      - name: Archive Wenkai GB
+        uses: actions/upload-artifact@v4
+        with:
+          name: WenkaiGB
+          path: |
+            fonts/TTF
+            !fonts/TTF/**Mono**
+          if-no-files-found: error
+          compression-level: 0
+
+      - name: Archive Wenkai GB Mono
+        uses: actions/upload-artifact@v4
+        with:
+          name: WenkaiGB Mono
+          path: fonts/TTF/**Mono**
+          if-no-files-found: error
+          compression-level: 0

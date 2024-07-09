@@ -86,7 +86,7 @@ An open-source Simplified Chinese font derived from Klee One. 一款开源中文
 - [@Georgome](https://github.com/GeorgomeFont)、[@Magmeta](https://github.com/Des-Magmeta) 等协助完善字体；
 - [@江大桥BridgeRiver](https://space.bilibili.com/431213752?spm_id_from=333.337.0.0)、[@ItMarki](https://github.com/ItMarki)、[@真理哥](https://github.com/zhenlige) 等对修改过程中存在的遗漏字形提供反馈；
 - 部分字形和笔形参考[「芫荽」/ Iansui](https://github.com/ButTaiwan/iansui)、[「芫茜雅楷」/ Jyunsai Kaai](https://github.com/ItMarki/jyunsaikaai)；
-[zi2zi_pytorch](https://github.com/EuphoriaYan/zi2zi-pytorch) 以及深度学习生成字形的源头字体 [思源宋体](https://github.com/adobe-fonts/source-han-serif)。
+- [zi2zi_pytorch](https://github.com/EuphoriaYan/zi2zi-pytorch) 以及深度学习生成字形的源头字体 [思源宋体](https://github.com/adobe-fonts/source-han-serif)。
 
 ## 相关资料
 - [通用规范汉字表](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/201306/t20130601_186002.html)

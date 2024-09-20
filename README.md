@@ -96,7 +96,7 @@ An open-source Simplified Chinese font derived from Klee One. 一款开源中文
 ## 更多「霞鹜」系列字体
 ### 「霞鹜文楷」系列
 - [霞鹜文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai) | [Lite](https://github.com/lxgw/LxgwWenKai-Lite)
-- 霞鹜文楷 GB / LXGW WenKai GB | [Lite](https://github.com/lxgw/LxgwWenKaiGB-Lite)
+- **霞鹜文楷 GB / LXGW WenKai GB** | [Lite](https://github.com/lxgw/LxgwWenKaiGB-Lite)
 - [霞鹜文楷 TC / LXGW WenKai TC](https://github.com/lxgw/LxgwWenKaiTC)
 ### 「晰致尚铭」系列
 - [霞鹜新晰黑 / LXGW Neo XiHei](https://github.com/lxgw/LxgwNeoXiHei)

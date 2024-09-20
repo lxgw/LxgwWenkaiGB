@@ -10,7 +10,7 @@ An open-source Simplified Chinese font derived from Klee One. 一款开源中文
 
 2020 年 12 月，日本著名字体厂商 FONTWORKS 在 GitHub 上释出了 [7 款开源日文字体](https://github.com/fontworks-fonts)，其中 [Klee One](https://github.com/fontworks-fonts/Klee) 字符数最多，兼有仿宋和楷体的特点，具有优雅的外观和温润的阅读感。与一般的教科书体相比，Klee One 保留了传统印刷字体的一些特征。2021 年，本人在其基础上增补和修改字形，制成[「霞鹜文楷」/ LXGW WenKai](https://github.com/lxgw/LxgwWenKai) 字体，受到广泛欢迎。除此之外，一些字体设计师/爱好者也制作了其他的衍生版本，如[「芫荽」/ Iansui](https://github.com/ButTaiwan/iansui) 等。
 
-虽然霞鹜文楷修改了 GB/T 2312-1980 及《通用规范汉字表》范围内的汉字字形，使其接近中国大陆推行的新字形，但仍保留了 Klee One 印刷体的特征，如「亠」「宀」等起笔的直点，「㇙」「㇜」等笔画折角处断笔设计等，因此一些人认为霞鹜文楷的字形并不规范，不是「G 源字形」，不符合一般楷体的书写习惯。鉴于此，本人在霞鹜文楷的基础上，尽可能严格按照中国大陆的字形标准（G 源字形）对字形、笔形作进一步修改，继续沿用「霞鹜文楷」名称，增加「GB」后缀表示字形遵循国标。由于 Klee 字体的 Regular 字重太细，故选取原字体 SemiBold 字重作为本字体的 Regular 字重。
+虽然「霞鹜文楷」修改了 GB/T 2312-1980 及《通用规范汉字表》范围内的汉字字形，使其接近中国大陆推行的新字形，但仍保留了 Klee One 印刷体的特征，如「亠」「宀」等起笔的直点，「㇙」「㇜」等笔画折角处断笔设计等，因此一些人认为「霞鹜文楷」的字形并不规范，不是「G 源字形」，不符合一般楷体的书写习惯。鉴于此，本人在「霞鹜文楷」的基础上，尽可能严格按照中国大陆的字形标准（G 源字形）对字形、笔形作进一步修改，继续沿用「霞鹜文楷」名称，增加「GB」后缀表示字形遵循国标。由于 Klee 字体的 Regular 字重太细，故选取原字体 SemiBold 字重作为本字体的 Regular 字重。
 
 目前该字体包含《通用规范汉字表》（2013）所收录的 8105 个汉字、《现代汉语通用字表》（1988）所收录的 7000 个汉字，以及 GB/T 2312-1980 所收录的 6763 个汉字，并按需补充一些较常用的其他汉字（详见[「外字初步整理一览表」](https://github.com/lxgw/ext-characters/blob/main/tables/ext_characters_table_1.md)），基本满足现代汉语（简体字）使用需要，并且适用于教育用途（如义务教育图书、少儿读物、字帖等）。自 v1.0 版本起，按照[「繁异体及其他外字初步整理一览表」](https://github.com/lxgw/ext-characters/blob/main/tables/ext_characters_table_2.md)新增繁体字及 IICore 汉字支持。自 v1.320 版本起，补全完整的 CJK 统一汉字基本区和扩展 A 区，符合 GB 18030-2022 实现级别 2 的收字范围。
 

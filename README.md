@@ -14,6 +14,8 @@ An open-source Simplified Chinese font derived from Klee One. 一款开源中文
 
 目前该字体包含《通用规范汉字表》（2013）所收录的 8105 个汉字、《现代汉语通用字表》（1988）所收录的 7000 个汉字，以及 GB/T 2312-1980 所收录的 6763 个汉字，并按需补充一些较常用的其他汉字（详见[「外字初步整理一览表」](https://github.com/lxgw/ext-characters/blob/main/tables/ext_characters_table_1.md)），基本满足现代汉语（简体字）使用需要，并且适用于教育用途（如义务教育图书、少儿读物、字帖等）。自 v1.0 版本起，按照[「繁异体及其他外字初步整理一览表」](https://github.com/lxgw/ext-characters/blob/main/tables/ext_characters_table_2.md)新增繁体字及 IICore 汉字支持。自 v1.320 版本起，补全完整的 CJK 统一汉字基本区和扩展 A 区，符合 GB 18030-2022 实现级别 2 的收字范围。
 
+「霞鹜文楷 GB」支持 Unicode 变体序列（Unicode Variation Sequences, UVS），用于蝌蚪引号`“‘’”`宽度的选择，[点击此处查看一览表](documentation/uvs.pdf)。
+
 ## 字体预览
 ![](https://raw.githubusercontent.com/lxgw/LxgwWenkaiGB/main/documentation/wenkaigb-1.png)
 

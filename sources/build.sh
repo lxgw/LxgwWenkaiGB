@@ -21,7 +21,7 @@ cp sources/fontinfo/LXGWWenKaiMonoGB-Light.plist sources/build/LXGWWenKaiMonoGB-
 cp sources/fontinfo/LXGWWenKaiMonoGB-Regular.plist sources/build/LXGWWenKaiMonoGB-Regular.ufo/fontinfo.plist
 cp sources/fontinfo/LXGWWenKaiMonoGB-Medium.plist sources/build/LXGWWenKaiMonoGB-Medium.ufo/fontinfo.plist
 # feature override
-cp sources/shared/lite/features.fea sources/build/LXGWWenKaiGB-Light.ufo/features.fea
+cp sources/shared/gblite/features.fea sources/build/LXGWWenKaiGB-Light.ufo/features.fea
 cp sources/shared/gblite/features.fea sources/build/LXGWWenKaiGB-Regular.ufo/features.fea
 cp sources/shared/gblite/features.fea sources/build/LXGWWenKaiGB-Medium.ufo/features.fea
 cp sources/shared/gblite/features.fea sources/build/LXGWWenKaiMonoGB-Light.ufo/features.fea

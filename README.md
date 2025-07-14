@@ -48,7 +48,7 @@ An open-source Simplified Chinese font derived from Klee One. 一款开源中文
 
 ### ⅱ. 从源代码生成
 
-请运行 `./sources/build.bat` 或 `./sources/build.sh`。需要安装 [`fontmake`](https://github.com/googlefonts/fontmake)：`pip3 install fontmake` 和 [`fontTools`](https://github.com/fonttools/fonttools)：`pip3 install fonttools`。
+可通过 `make` 运行完整的构建流程： `make build`。目前的源代码依赖子模块 [LxgwWenKai-shared]( https://github.com/lxgw/LxgwWenKai-Shared)，且只能在类 Unix 系统运行，需要安装 Python 3。 
 
 ## 注意事项
 
@@ -70,7 +70,7 @@ An open-source Simplified Chinese font derived from Klee One. 一款开源中文
 
 ## 授权信息
 
-本字体是基于 SIL Open Font License 1.1 改造的 FONTWORKS 开发并发布的 [Klee](https://github.com/fontworks-fonts/Klee) 开源项目。Klee 是 FONTWORKS 的商标。
+本字体在 Fontworks（今 Monotype KK）开发并发布的 [Klee](https://github.com/fontworks-fonts/Klee) 开源项目基础上改造，采用 [SIL Open Font License 1.1](https://openfontlicense.org) 授权许可。Klee 是 Fontworks 的商标。
 
 > [猫啃网](https://www.maoken.com/)提供 SIL Open Font License 1.1 非官方[简体中文译本](https://www.maoken.com/ofl)便于理解，仅供参考。
 
@@ -88,7 +88,7 @@ An open-source Simplified Chinese font derived from Klee One. 一款开源中文
 
 ## 鸣谢
 
-- [FONTWORKS 株式会社](http://fontworks.co.jp) 提供原版开源字体； [开发者 GitHub 主页](https://github.com/fontworks-fonts/)
+- Fontworks Inc.（今 [Monotype KK](https://en.fontworks.co.jp/)）提供原始开源字体； [开发者 GitHub 主页](https://github.com/fontworks-fonts/)https://github.com/fontworks-fonts/)
 - 原始字体的设计师周建豪（Francis Chow）先生，以及 @荆南字坊、[@夜煞之乐](https://github.com/NightFurySL2001) 等为字形设计与修改提供指导；
 - [@Georgome](https://github.com/GeorgomeFont)、[@Magmeta](https://github.com/Des-Magmeta) 等协助完善字体；
 - [@江大桥BridgeRiver](https://github.com/BridgeRiver)、[@ItMarki](https://github.com/ItMarki)、[@真理哥](https://github.com/zhenlige) 等对修改过程中存在的遗漏字形提供反馈；

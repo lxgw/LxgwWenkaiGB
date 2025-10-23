@@ -94,7 +94,7 @@ An open-source Simplified Chinese font derived from Klee One. 一款开源中文
 
 - Fontworks Inc.（今 [Monotype KK](https://en.fontworks.co.jp/)）提供原始开源字体； [开发者 GitHub 主页](https://github.com/fontworks-fonts/)https://github.com/fontworks-fonts/)
 - 原始字体的设计师周建豪（Francis Chow）先生，以及 @荆南字坊、[@夜煞之乐](https://github.com/NightFurySL2001) 等为字形设计与修改提供指导；
-- [@Georgome](https://github.com/GeorgomeFont)、[@Magmeta](https://github.com/Des-Magmeta) 等协助完善字体；
+- [@Georgome](https://github.com/GeorgomeFont)、[@Magmeta](https://github.com/Des-Magmeta)、[@Skr-ZERO](https://github.com/Skr-ZERO) 等协助完善字体；
 - [@江大桥BridgeRiver](https://github.com/BridgeRiver)、[@ItMarki](https://github.com/ItMarki)、[@真理哥](https://github.com/zhenlige) 等对修改过程中存在的遗漏字形提供反馈；
 - [Iosevka](https://github.com/be5invis/Iosevka) / [Nerd-Fonts](https://github.com/ryanoasis/nerd-fonts) 提供等宽字体所用的 Powerline 符号；
 - 部分字形和笔形借自[「芫荽」/ Iansui](https://github.com/ButTaiwan/iansui)、[「芫茜雅楷」/ Jyunsai Kaai](https://github.com/ItMarki/jyunsaikaai)；

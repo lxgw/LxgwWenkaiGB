@@ -24,6 +24,6 @@ cp sources/fontinfo/LXGWWenKaiMonoGB-Medium.plist sources/build/LXGWWenKaiMonoGB
 cp sources/shared/gblite/features.fea sources/build/LXGWWenKaiGB-Light.ufo/features.fea
 cp sources/shared/gblite/features.fea sources/build/LXGWWenKaiGB-Regular.ufo/features.fea
 cp sources/shared/gblite/features.fea sources/build/LXGWWenKaiGB-Medium.ufo/features.fea
-cp sources/shared/gblite/features.fea sources/build/LXGWWenKaiMonoGB-Light.ufo/features.fea
-cp sources/shared/gblite/features.fea sources/build/LXGWWenKaiMonoGB-Regular.ufo/features.fea
-cp sources/shared/gblite/features.fea sources/build/LXGWWenKaiMonoGB-Medium.ufo/featuresgb.fea
+cp sources/shared/gblite/features_mono.fea sources/build/LXGWWenKaiMonoGB-Light.ufo/features.fea
+cp sources/shared/gblite/features_mono.fea sources/build/LXGWWenKaiMonoGB-Regular.ufo/features.fea
+cp sources/shared/gblite/features_mono.fea sources/build/LXGWWenKaiMonoGB-Medium.ufo/features.fea

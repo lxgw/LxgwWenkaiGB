@@ -87,14 +87,14 @@ An open-source Simplified Chinese font derived from Klee One. 一款开源中文
 ### 限制
 
 - 在制作衍生字体时，字体名称不可使用原有字体的「保留名称」。本字体保留名称「霞鹜」「LXGW」，基于本字体二次衍生的字体，名称不可出现「霞鹜」或「LXGW」字样；而在没有对字体源代码进行修改的情况下，重新编译出来的字体，可以继续使用本字体的保留名称「霞鹜」「LXGW」。
-- 根据 [SIL Open Font License 1.1](https://openfontlicense.org)「许可与条件」中第 1 条的规定， **禁止单独出售字体文件(OTF/TTF文件)的行为。**
+- 根据 [SIL Open Font License 1.1](https://openfontlicense.org)「许可与条件」中第 1 条的规定， **禁止单独出售字体文件（OTF/TTF 文件）的行为。**
 - 该字体不可在 [SIL Open Font License 1.1](https://openfontlicense.org) 以外的授权许可下发行。
 
 ## 鸣谢
 
-- Fontworks Inc.（今 [Monotype KK](https://en.fontworks.co.jp/)）提供原始开源字体； [开发者 GitHub 主页](https://github.com/fontworks-fonts/)https://github.com/fontworks-fonts/)
+- Fontworks Inc.（今 [Monotype KK](https://en.fontworks.co.jp/)）提供原始开源字体； [开发者 GitHub 主页](https://github.com/fontworks-fonts/)
 - 原始字体的设计师周建豪（Francis Chow）先生，以及 @荆南字坊、[@夜煞之乐](https://github.com/NightFurySL2001) 等为字形设计与修改提供指导；
-- [@Georgome](https://github.com/GeorgomeFont)、[@Magmeta](https://github.com/Des-Magmeta)、[@Skr-ZERO](https://github.com/Skr-ZERO) 等协助完善字体；
+- [@Georgome](https://github.com/GeorgomeFont)、[@Magmeta](https://github.com/Des-Magmeta)、[@Skr-ZERO](https://github.com/Skr-ZERO)、[@Steve-Yuu](https://github.com/Steve-Yuu) 等协助完善字体；
 - [@江大桥BridgeRiver](https://github.com/BridgeRiver)、[@ItMarki](https://github.com/ItMarki)、[@真理哥](https://github.com/zhenlige) 等对修改过程中存在的遗漏字形提供反馈；
 - [Iosevka](https://github.com/be5invis/Iosevka) / [Nerd-Fonts](https://github.com/ryanoasis/nerd-fonts) 提供等宽字体所用的 Powerline 符号；
 - 部分字形和笔形借自[「芫荽」/ Iansui](https://github.com/ButTaiwan/iansui)、[「芫茜雅楷」/ Jyunsai Kaai](https://github.com/ItMarki/jyunsaikaai)；
@@ -102,7 +102,7 @@ An open-source Simplified Chinese font derived from Klee One. 一款开源中文
 - 制表符、表意文字结构描述符（Ideographic Description Character, IDC）等字符借自 [思源黑体](https://github.com/adobe-fonts/source-han-sans)；
 - 吉祥图案、CC 许可图标等字符衍生自 [煮豆黑体](https://github.com/Buernia/Zhudou-Sans)；
 - 缺字标记 `.notdef` 的「🤔」外部轮廓取自 [Noto Emoji (Monochrome)](https://github.com/googlefonts/noto-emoji)；
-- 带圈无衬线数字序号（➀`U+2780`～➓`U+2793`）内部数字字形借自 [Ysabeau Office](https://github.com/CatharsisFonts/Ysabeau) 字体；
+- 带圈无衬线数字序号（➀`U+2780`～➓`U+2793`、🄋`U+1F10B`、🄌`U+1F10C`）内部数字字形借自 [Ysabeau Office](https://github.com/CatharsisFonts/Ysabeau) 字体；
 - [@派对大魔王](https://github.com/Partyb0ssishere) 的 [快去写作业](https://github.com/Partyb0ssishere/cef-fonts-cjk) 字体提供全谚文拼字模板。
 
 ## 相关资料

@@ -20,7 +20,9 @@ An open-source Simplified Chinese font derived from Klee One. 一款开源中文
 
 虽然「霞鹜文楷」修改了 GB/T 2312-1980 及《通用规范汉字表》范围内的汉字字形，使其接近中国大陆推行的新字形，但仍保留了 Klee One 印刷体的特征，如「亠」「宀」等起笔的直点，「㇙」「㇜」等笔画折角处断笔设计等，因此一些人认为「霞鹜文楷」的字形并不规范，不是「G 源字形」，不符合一般楷体的书写习惯。鉴于此，本人在「霞鹜文楷」的基础上，尽可能严格按照中国大陆的字形标准（G 源字形）对字形、笔形作进一步修改，继续沿用「霞鹜文楷」名称，增加「GB」后缀表示字形遵循国标。由于 Klee 字体的 Regular 字重太细，故选取原字体 SemiBold 字重作为本字体的 Regular 字重。
 
-目前该字体包含《通用规范汉字表》（2013）所收录的 8105 个汉字、《现代汉语通用字表》（1988）所收录的 7000 个汉字，以及 GB/T 2312-1980 所收录的 6763 个汉字，并按需补充一些较常用的其他汉字（详见[「外字初步整理一览表」](https://github.com/lxgw/ext-characters/blob/main/tables/ext_characters_table_1.md)），基本满足现代汉语（简体字）使用需要，适用于对规范字形要求**较高**的场合（但可能**并不适合**义务教育图书、少儿读物、字帖等对规范字形要求**极高**的场合）。自 v1.0 版本起，按照[「繁异体及其他外字初步整理一览表」](https://github.com/lxgw/ext-characters/blob/main/tables/ext_characters_table_2.md)新增繁体字及 IICore 汉字支持。自 v1.320 版本起，补全完整的 CJK 统一汉字基本区和扩展 A 区，符合 GB 18030-2022 实现级别 2 的收字范围。
+本字体目前收录了《通用规范汉字表》（2013）的 8,105 个汉字、《现代汉语通用字表》（1988）的 7,000 个汉字，以及 GB/T 2312-1980 的 6,763 个汉字，并视需求补充了部分较常用的其他汉字（详见[「外字初步整理一览表」](https://github.com/lxgw/ext-characters/blob/main/tables/ext_characters_table_1.md)），基本满足现代汉语（简体字）的日常使用需求，适用于对规范字形要求**较高**的场合（但可能**并不适合**义务教育图书、少儿读物、字帖等对规范字形要求**极高**的场合）。
+
+自 v1.0 版本起，依照[「繁异体及其他外字初步整理一览表」](https://github.com/lxgw/ext-characters/blob/main/tables/ext_characters_table_2.md)新增繁体字及 IICore 汉字支持；自 v1.320 版本起，补全 CJK 统一汉字基本区和扩展 A 区的完整字符集，符合 GB 18030-2022 实现级别 2 的收字范围。
 
 「霞鹜文楷 GB」支持 Unicode 变体序列（Unicode Variation Sequences, UVS），用于标点符号宽度和位置的选择，[点击此处查看一览表](documentation/uvs.pdf)。
 

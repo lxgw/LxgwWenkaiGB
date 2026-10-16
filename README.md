@@ -148,7 +148,7 @@ Nerd Fonts 图标集主要面向等宽编程字体，用于在终端或代码编
 - [通用规范汉字笔顺规范](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/202103/t20210318_520473.html)
 - [GB 18030-2022 信息技术 中文编码字符集](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=A1931A578FE14957104988029B0833D3)
 
-## 更多「霞鹜」系列字体
+## 更多「霞鹜」开源字体
 ### 「霞鹜文楷」系列
 - [霞鹜文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai) | [Lite](https://github.com/lxgw/LxgwWenKai-Lite)
 - **霞鹜文楷 GB / LXGW WenKai GB** | [Lite](https://github.com/lxgw/LxgwWenKaiGB-Lite)

@@ -171,8 +171,14 @@ Nerd Fonts 图标集主要面向等宽编程字体，用于在终端或代码编
 [点击进入打赏页面。](https://github.com/lxgw/lxgw/blob/main/Donate.md)
 
 
-## Stargazers over time
+## Star History
 
-[![Stargazers over time](https://starchart.cc/lxgw/LxgwWenkaiGB.svg)](https://starchart.cc/lxgw/LxgwWenkaiGB)
+<a href="https://www.star-history.com/?repos=lxgw%2Flxgwwenkaigb&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=lxgw/lxgwwenkaigb&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=lxgw/lxgwwenkaigb&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=lxgw/lxgwwenkaigb&type=date&legend=top-left" />
+ </picture>
+</a>
 
 [^1]: 其余统一汉字若于 GB/Z 40637-2021 收录，则采用和「彭蠡文楷」一致的古籍印刷规范字形，若为 JIS 汉字则采用和 Klee One 一致的日式印刷体写法，这些汉字轻便版均不包含。兼容汉字也不在规范字形调整的范围内。

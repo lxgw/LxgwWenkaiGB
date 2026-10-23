@@ -24,7 +24,7 @@ An open-source Simplified Chinese font derived from Klee One. 一款开源中文
 
 自 v1.0 版本起，依照[「繁异体及其他外字初步整理一览表」](https://github.com/lxgw/ext-characters/blob/main/tables/ext_characters_table_2.md)新增繁体字及 IICore 汉字支持；自 v1.320 版本起，补全 CJK 统一汉字基本区和扩展 A 区的完整字符集，符合 GB 18030-2022 实现级别 2 的收字范围。
 
-「霞鹜文楷 GB」支持 Unicode 变体序列（Unicode Variation Sequences, UVS），用于标点符号宽度和位置的选择，[点击此处查看一览表](documentation/uvs.pdf)。
+「霞鹜文楷 GB」支持 Unicode 变体序列（Unicode Variation Sequences, UVS），用于标点符号宽度和位置的选择，以及笔画形态的切换，点击此处查看[标点符号一览表](documentation/uvs.pdf)、[笔画一览表](documentation/uvs-strokes.pdf)。
 
 ## 字体预览
 ![](https://raw.githubusercontent.com/lxgw/LxgwWenkaiGB/main/documentation/wenkaigb-1.png)

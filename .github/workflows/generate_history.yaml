@@ -1,7 +1,7 @@
 name: Generate HISTORY.md
 
 on:
-  workflow_dispatch: # 允许你手动点击按钮触发
+  workflow_dispatch: # 允许手动触发
 
 jobs:
   build-history:
@@ -14,47 +14,75 @@ jobs:
         with:
           python-version: '3.x'
 
-      # 把脚本写进 Actions 环境里
-      - name: Create script
+      - name: Create and run script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
         run: |
           cat << 'EOF' > generate_history.py
-          import subprocess
+          import os
           import json
           import re
+          import urllib.request
 
-          cmd = ["gh", "release", "list", "--limit", "200", "--json", "tagName,publishedAt"]
-          result = subprocess.run(cmd, capture_output=True, text=True, encoding='utf-8')
-          releases = json.loads(result.stdout)
+          repo = os.environ.get("GITHUB_REPOSITORY")
+          token = os.environ.get("GITHUB_TOKEN")
+          
+          if not repo or not token:
+              print("❌ 缺少必要的环境变量 (GITHUB_REPOSITORY 或 GITHUB_TOKEN)")
+              exit(1)
+
+          # 通过 API 获取 Release 列表
+          url = f"https://api.github.com/repos/{repo}/releases?per_page=100"
+          req = urllib.request.Request(url)
+          req.add_header("Authorization", f"Bearer {token}")
+          req.add_header("Accept", "application/vnd.github.v3+json")
+          
+          print("正在从 GitHub API 获取 Release...")
+          try:
+              with urllib.request.urlopen(req) as response:
+                  releases = json.loads(response.read().decode('utf-8'))
+          except Exception as e:
+              print(f"❌ 获取失败: {e}")
+              exit(1)
 
           history_content = "# 版本更新记录\n\n"
 
           for rel in releases:
-              tag = rel["tagName"]
-              date = rel["publishedAt"][:10]
-              view_cmd = ["gh", "release", "view", tag, "--json", "body"]
-              view_result = subprocess.run(view_cmd, capture_output=True, text=True, encoding='utf-8')
-              body = json.loads(view_result.stdout).get("body", "")
+              tag = rel.get("tag_name", "")
+              date = rel.get("published_at", "")[:10]
+              body = rel.get("body", "") or ""
               
-              # 清洗规则
-              if "Assets 里的 zip 格式压缩包" in body:
-                  body = body.split("Assets 里的 zip 格式压缩包")[0]
+              # ---------------- 数据清洗 ----------------
+              # 1. 截断 Magisk 警告及后续内容
+              magisk_keyword = "Assets 里的 zip 格式压缩包"
+              if magisk_keyword in body:
+                  body = body.split(magisk_keyword)[0]
+              
+              # 2. 移除 GitHub Alert 块
               body = re.sub(r'^> \[!(?:NOTE|WARNING|IMPORTANT|TIP|CAUTION)\]\n(?:>.*\n*)*', '', body, flags=re.MULTILINE)
+              
+              # 3. 移除 Full Changelog 及版本对比链接
               body = re.sub(r'^\*\*Full Changelog\*\*:.*$', '', body, flags=re.MULTILINE)
               body = re.sub(r'\[.*?\]\(https://github\.com/.*?compare.*?\)', '', body, flags=re.MULTILINE)
-              body = re.sub(r'^.*更新日志.*$', '', body, flags=re.MULTILINE)
-              body = re.sub(r'\n{3,}', '\n\n', body).strip()
               
+              # 4. 移除包含「更新日志」的整行
+              body = re.sub(r'^.*更新日志.*$', '', body, flags=re.MULTILINE)
+              
+              # 5. 清理多余空行
+              body = re.sub(r'\n{3,}', '\n\n', body).strip()
+              # ----------------------------------------------
+
               if body: 
                   history_content += f"## [{tag}] - {date}\n\n{body}\n\n---\n\n"
 
           with open("HISTORY.md", "w", encoding="utf-8") as f:
               f.write(history_content)
+              
+          print("✅ HISTORY.md 生成完毕！")
           EOF
 
-      - name: Run script
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python generate_history.py
+          python generate_history.py
 
       - name: Upload History File
         uses: actions/upload-artifact@v4
